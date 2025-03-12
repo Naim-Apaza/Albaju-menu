@@ -1,0 +1,15 @@
+# Para excluir la configuración de Obsidian (incluidas las configuraciones de plugins y atajos de teclado)
+.obsidian/
+
+# Para excluir solo la configuración de plugins. Puede ser útil para evitar que algunos plugins expongan datos confidenciales
+.obsidian/plugins
+
+# O para excluir solo la caché del espacio de trabajo
+.obsidian/workspace.json
+
+# Para excluir la caché del espacio de trabajo específica para dispositivos móviles
+.obsidian/workspace-mobile.json
+
+# Añada las siguientes líneas para excluir la configuración del sistema operativo y las cachés
+.trash/
+.DS_Store
